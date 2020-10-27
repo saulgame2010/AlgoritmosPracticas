@@ -1,0 +1,13 @@
+Para500000 numeros
+
+real (Tiempo total)  1465.3336911201 s
+user (Tiempo de procesamiento en CPU) 893.9612710000 s
+sys (Tiempo en acciónes de E/S)  562.4752910000 s
+CPU/Wall   99.3928257315 % 
+
+
+real (Tiempo total)  1.4653336911e+03 s
+user (Tiempo de procesamiento en CPU) 8.9396127100e+02 s
+sys (Tiempo en acciónes de E/S)  5.6247529100e+02 s
+CPU/Wall   99.3928257315 % 
+
